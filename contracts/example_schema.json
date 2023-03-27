@@ -1,0 +1,8 @@
+{
+  "id": "1",
+  "type": "example",
+  "attributes": {
+    "property1": "thing",
+    "property2": "color"
+  }
+}
